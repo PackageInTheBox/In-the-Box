@@ -230,11 +230,11 @@ const Contact = () => {
               <CardContent className="space-y-4">
                 <div>
                   <h4 className="font-lato font-semibold text-gray-900 mb-1">Email</h4>
-                  <p className="font-lato text-gray-600">hello@inthebox.design</p>
+                  <p className="font-lato text-gray-600">founder@inthebox@gmail.com</p>
                 </div>
                 <div>
                   <h4 className="font-lato font-semibold text-gray-900 mb-1">WhatsApp</h4>
-                  <p className="font-lato text-gray-600">+91 98765 43210</p>
+                  <p className="font-lato text-gray-600">+91 70877 78689</p>
                 </div>
                 <div>
                   <h4 className="font-lato font-semibold text-gray-900 mb-1">Response Time</h4>
