@@ -255,7 +255,7 @@ const Contact = () => {
                   asChild 
                   className="w-full bg-green-600 hover:bg-green-700 text-white font-lato"
                 >
-                  <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/917087778689" target="_blank" rel="noopener noreferrer">
                     WhatsApp Us Now
                   </a>
                 </Button>
@@ -264,7 +264,7 @@ const Contact = () => {
                   variant="outline" 
                   className="w-full border-brand text-brand hover:bg-brand hover:text-white font-lato"
                 >
-                  <a href="mailto:hello@inthebox.design">
+                  <a href="mailto:founder@inthebox.co.in">
                     Send Email
                   </a>
                 </Button>
